@@ -6,17 +6,21 @@ a.cc-event:link,
 a.cc-event:visited { background-color: #975459; }
 a.cc-event:hover { background-color: #6A3333; }
 
+a.cc-free:link,
+a.cc-free:visited { opacity: 1.0; color: #FFF; background-color: #149638; }
+a.cc-free:hover { background-color: #176541; }
+
 a.cc-own:link,
 a.cc-own:visited { background-color: #8BB243; }
 a.cc-own:hover { background-color: #5F8024; }
 
 a.cc-single:link,
-a.cc-single:visited { background-color: #808D96; }
-a.cc-single:hover { background-color: #4C5359; }
+a.cc-single:visited { background-color: #FF254D; }
+a.cc-single:hover { background-color: #BF002F; }
 
 a.cc-multiple:link,
-a.cc-multiple:visited { background-color: #547B97; }
-a.cc-multiple:hover { background-color: #334F6A; }
+a.cc-multiple:visited { background-color: #FF254D; }
+a.cc-multiple:hover { background-color: #BF002F; }
 
 a.cc-conflict:link,
 a.cc-conflict:visited { background-color: #334F6A; }
